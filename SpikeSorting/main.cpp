@@ -7,7 +7,6 @@ int main()
 {
 	int a;
     printf("sjflsjfsdjf\n");
-	printf("sjflsjfsdjf\n");
 	getchar();
 	return 0;
 }
