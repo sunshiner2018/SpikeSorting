@@ -18,5 +18,25 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="spikedetect.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="probe.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="parameters.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="parameters.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="probe.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="spikedetect.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
